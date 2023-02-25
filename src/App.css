@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  height: 1400px;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: red;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+h1{
+  font-size: 50px;
+}
+#headerImg{
+  height: 175px;
+  width: 175px;
+}

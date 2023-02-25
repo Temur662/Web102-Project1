@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+  background-color: whitesmoke;
+}
+img{
+  height: 100pxpx;
+  width: 250px;
+}
+.info{
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+  color:black;
+  background-color: white;
+}
+table{
+  border-spacing: 20px; 
+}
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 2px;
+}
+
+.Fixture h5{
+  line-height: 0px;
+  align-content: center;
+}
+
+.Boxs{
+  margin-left: 17%;
+}

@@ -7,8 +7,8 @@ body {
   background-color: whitesmoke;
 }
 img{
-  height: 100pxpx;
-  width: 250px;
+  height: 160px;
+  width: 275px;
 }
 .info{
   padding: 20px;
@@ -33,11 +33,14 @@ td {
   padding: 2px;
 }
 
-.Fixture h5{
-  line-height: 0px;
-  align-content: center;
+.Boxs{
+  margin-left: 14%;
 }
 
-.Boxs{
-  margin-left: 17%;
+.stream{
+  background-color: red;
+  height: 35px;
+  width: 90px;
+  border-radius: 20px;
+  border-style: hidden;
 }

@@ -1,7 +1,7 @@
 import react from "react";
 import Fixture from "./Fixture";
 import Lcfc from "../images/LCFCVAR.jpeg"
-import Everton from "../images/Everton.jpeg"
+import Everton from "../images/ArsenalVEverton.jpeg"
 import Sporting from "../images/Sporting.jpeg"
 const Box = (props) => {
     return (
@@ -9,7 +9,7 @@ const Box = (props) => {
         <thead>
             <tr>
             <td>
-                 <img src = {Lcfc} />
+                <img src = {Lcfc} />
                  <div className = "info">
                     <td><Fixture date = "Feb/25" homeTeam = "Leicester City" awayTeam = "Arsenal" stadium = "King Power Stadium" time = "10:00AM"/></td>
                 </div>

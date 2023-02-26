@@ -10,3 +10,5 @@ By the end of this assignment you will be able to...
 Required Features
 [X] Create a unique theme for events or resources relevant to a specific community
 [X] Display at least 10 unique resources or events in a responsive card format
+Stretch Features
+[X]Add buttons or links to a related resource on each card component

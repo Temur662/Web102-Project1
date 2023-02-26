@@ -17,7 +17,7 @@ const Box = (props) => {
             <td>
                 <img src = {Everton} />
                 <div className="info">
-                    <td><Fixture link = "https://www.premierleague.com/match/74971" date = "March/1" homeTeam = "Arsenal" awayTeam = "Everton" stadium = "Emirates Stadium" time = "11:30AM"/></td>
+                    <td><Fixture link = "https://www.premierleague.com/match/74971" date = "March/1" homeTeam = "Arsenal" awayTeam = "Everton" stadium = "Emirates Stadium" time = "2:45PM"/></td>
                 </div>
             </td>
             <td>

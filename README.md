@@ -13,5 +13,5 @@ Required Features
 Stretch Features
 [X]Add buttons or links to a related resource on each card component
 
+https://imgur.com/a/m3VRebJ
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/m3VRebJ"><a href="//imgur.com/m3VRebJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

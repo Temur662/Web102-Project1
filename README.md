@@ -13,5 +13,6 @@ Required Features
 Stretch Features
 [X]Add buttons or links to a related resource on each card component
 
-https://imgur.com/a/m3VRebJ.gif
+#My Gif
+![](https://github.com/Temur662/Web102-Project1/blob/main/Project1.gif)
 
